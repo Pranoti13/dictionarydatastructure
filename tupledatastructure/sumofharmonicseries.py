@@ -1,0 +1,1 @@
+#display the n term of harmonic series and their sum

@@ -1,0 +1,9 @@
+d={101:"durga",102:'ravi',103:'shiva'}
+print(d)
+d[101]='sunny'
+print(d)
+d={}
+d['a']='apple'
+d['b']='banana'
+d[200]='hey'
+print(d)

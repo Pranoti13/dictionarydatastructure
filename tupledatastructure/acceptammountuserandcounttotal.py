@@ -1,0 +1,1 @@
+#accept amount from user and count total notes

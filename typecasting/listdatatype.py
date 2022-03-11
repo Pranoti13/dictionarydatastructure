@@ -1,0 +1,12 @@
+'''list=[10,20,30,40]
+print(list)
+list=[10,20,'kh',True,"durga",80]
+print(list)
+print(list[2])
+print(list[2:4])'''
+list=[10,40,"hey",False,'my',1331]
+list.append("kharade")
+print(list)
+list.remove("hey")
+print(list)
+print(list[2])
